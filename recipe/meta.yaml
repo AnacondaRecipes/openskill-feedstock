@@ -33,7 +33,7 @@ test:
     - pytest -vvv --capture=tee-sys tests
   requires:
     - pip
-    - pytest ~=7.3
+    - pytest
 
 about:
   home: https://github.com/OpenDebates/openskill.py
